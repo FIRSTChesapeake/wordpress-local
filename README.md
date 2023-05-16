@@ -1,6 +1,6 @@
 # Overview
 
-This is a basic docker compose script to startup and run a local wordpress instance for experimentation and local development if needed.
+This is a basic docker compose script to startup and run a local wordpress instance for experimentation and local development if needed.  It is not intended for production and is just a utility script.
 
 ## Running
 
