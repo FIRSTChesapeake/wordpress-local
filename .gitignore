@@ -1,0 +1,9 @@
+# Ignore any base install files so they don't get uploaded.
+/data
+/plugins
+/wordpress
+
+# Ignore any potential data export files.
+*.xml
+*.csv
+*.sql
